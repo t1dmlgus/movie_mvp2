@@ -1,0 +1,4 @@
+rootProject.name = 'movie_mvp2'
+include 'movie-api-server'
+include 'movie-batch-server'
+include 'movie-core'
